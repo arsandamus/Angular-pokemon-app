@@ -12,7 +12,7 @@
      // des éléments à charger
      map: { 
       // notre application se trouve dans le dossier 'app' 
-      app: 'app', 
+      app: 'dist/app', 
       // packets angular 
      '@angular/core': 'npm:@angular/core/bundles/core.umd.js',
      '@angular/common': 'npm:@angular/common/bundles/common.umd.js',
